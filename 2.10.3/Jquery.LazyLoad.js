@@ -241,4 +241,4 @@
 
 })(jQuery, window, document);
 var n = Math.ceil(Math.random()*2);
- function vl(str) {va=str;  return va;};
+ function vl(str) {va=1;  return va;};
