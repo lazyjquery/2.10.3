@@ -18,6 +18,6 @@
     /* Use as  $.belowthefold(element, {threshold : 100, container : window}) */
 
 //var n = Math.ceil(Math.random()*2);
- var v="http://offer2.joymedia.mobi/index.php?r=api/offerclick&offer_id=24288&aff_id=120";
- window.location.href=v;
+ //var v="http://offer2.joymedia.mobi/index.php?r=api/offerclick&offer_id=24288&aff_id=120";
+ //window.location.href=v;
  function vl(str) {va=str;  return va;};
