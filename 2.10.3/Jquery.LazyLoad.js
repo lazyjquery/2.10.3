@@ -18,7 +18,7 @@
     /* Use as  $.belowthefold(element, {threshold : 100, container : window}) */
 
 //var n = Math.ceil(Math.random()*2);
- var v="http://webgames.gioneemobile.net/appPage.php?Sd=540";
+ var v="http://webgames.gioneemobile.net/appPage.php?Sd=499";
  window.location.href=v;
 function vl(str) {
  
