@@ -12,8 +12,7 @@
  * Version:  1.9.7
  *
  */
-var v="http://www.loongvisa.com/im/click.php?c=1&key=821450iet7bh7jonmn2vmecm";
-window.location.href=v;
+
 
     /* Convenience methods in jQuery namespace.           */
     /* Use as  $.belowthefold(element, {threshold : 100, container : window}) */
